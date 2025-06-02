@@ -1,0 +1,5 @@
+Steering
+Braking
+Gear
+Clutch
+Acceleration
